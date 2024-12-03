@@ -184,7 +184,7 @@
                     <rect mask="url(#languages-bar)" x="240.1255839459532" y="0" width="87.343193437592" height="8" fill="#4F5D95"/>
                     <rect mask="url(#languages-bar)" x="327.4687773835452" y="0" width="54.15077502351703" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="381.61955240706226" y="0" width="29.239248633487332" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="410.85880104054957" y="0" width="24.531839612500136" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="410.85880104054957" y="0" width="24.531839612500136" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="435.39064065304973" y="0" width="17.851086211291136" height="8" fill="#f7523f"/>
                     <rect mask="url(#languages-bar)" x="453.2417268643409" y="0" width="4.719361032161925" height="8" fill="#878787"/>
                     <rect mask="url(#languages-bar)" x="457.96108789650276" y="0" width="2.0389121034972444" height="8" fill="#555555"/>
@@ -216,7 +216,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -2601,7 +2601,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 44.7k out of 204m repositories</span>
+                                    <span class="gh">ranked 44.7k out of 216m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1158</div>
                                     </div>
